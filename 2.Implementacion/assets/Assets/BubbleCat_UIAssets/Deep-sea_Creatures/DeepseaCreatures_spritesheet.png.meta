@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: 88e89707402128c429c92fa5e0ea76be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2413588113782985679
+    second: DeepseaCreatures_spritesheet_0
+  - first:
+      213: -3060909359947264155
+    second: DeepseaCreatures_spritesheet_1
+  - first:
+      213: -2063583129313839652
+    second: DeepseaCreatures_spritesheet_2
+  - first:
+      213: 8650153142019741242
+    second: DeepseaCreatures_spritesheet_3
+  - first:
+      213: -7288853984584300726
+    second: DeepseaCreatures_spritesheet_4
+  - first:
+      213: -5612297208249417452
+    second: DeepseaCreatures_spritesheet_5
+  - first:
+      213: -617891323721405135
+    second: DeepseaCreatures_spritesheet_6
+  - first:
+      213: 4032308606500008367
+    second: DeepseaCreatures_spritesheet_7
+  - first:
+      213: -6990826058401732620
+    second: DeepseaCreatures_spritesheet_8
+  - first:
+      213: -4251146425640846291
+    second: DeepseaCreatures_spritesheet_9
+  - first:
+      213: 3809683655159479573
+    second: DeepseaCreatures_spritesheet_10
+  - first:
+      213: 7577601668631661109
+    second: DeepseaCreatures_spritesheet_11
+  - first:
+      213: 3716073351644077772
+    second: DeepseaCreatures_spritesheet_12
+  - first:
+      213: -6891188776284712694
+    second: DeepseaCreatures_spritesheet_13
+  - first:
+      213: -3657742958610355582
+    second: DeepseaCreatures_spritesheet_14
+  - first:
+      213: -4945642870860287031
+    second: DeepseaCreatures_spritesheet_15
+  - first:
+      213: -5069746762515655787
+    second: DeepseaCreatures_spritesheet_16
+  - first:
+      213: -5247763532863224134
+    second: DeepseaCreatures_spritesheet_17
+  - first:
+      213: 8397870813770321019
+    second: DeepseaCreatures_spritesheet_18
+  - first:
+      213: 2143050801836604462
+    second: DeepseaCreatures_spritesheet_19
+  - first:
+      213: 8335853371825223374
+    second: DeepseaCreatures_spritesheet_20
+  - first:
+      213: -8865585152529712844
+    second: DeepseaCreatures_spritesheet_21
+  - first:
+      213: 2701017136825393105
+    second: DeepseaCreatures_spritesheet_22
+  - first:
+      213: -1751378407248503487
+    second: DeepseaCreatures_spritesheet_23
+  - first:
+      213: -2132290966980342322
+    second: DeepseaCreatures_spritesheet_24
+  - first:
+      213: 5925374594620983179
+    second: DeepseaCreatures_spritesheet_25
+  - first:
+      213: 7287775195571408170
+    second: DeepseaCreatures_spritesheet_26
+  - first:
+      213: -6838241536580746707
+    second: DeepseaCreatures_spritesheet_27
+  - first:
+      213: -2369568851748605445
+    second: DeepseaCreatures_spritesheet_28
+  - first:
+      213: 4430615510441888908
+    second: DeepseaCreatures_spritesheet_29
+  - first:
+      213: -6829962577536844583
+    second: DeepseaCreatures_spritesheet_30
+  - first:
+      213: 7992034927957160008
+    second: DeepseaCreatures_spritesheet_31
+  - first:
+      213: 1458440408445909834
+    second: DeepseaCreatures_spritesheet_32
+  - first:
+      213: 6091916280888930633
+    second: DeepseaCreatures_spritesheet_33
+  - first:
+      213: -8837564528611406446
+    second: DeepseaCreatures_spritesheet_34
+  - first:
+      213: 7828448446384047431
+    second: DeepseaCreatures_spritesheet_35
+  - first:
+      213: 8838213956634346331
+    second: DeepseaCreatures_spritesheet_36
+  - first:
+      213: 3259007462666122093
+    second: DeepseaCreatures_spritesheet_37
+  - first:
+      213: -4445959810546785598
+    second: DeepseaCreatures_spritesheet_38
+  - first:
+      213: -29434357339565509
+    second: DeepseaCreatures_spritesheet_39
+  - first:
+      213: 1368236469354087658
+    second: DeepseaCreatures_spritesheet_40
+  - first:
+      213: 7151401857953777459
+    second: DeepseaCreatures_spritesheet_41
+  - first:
+      213: -1886659426539627775
+    second: DeepseaCreatures_spritesheet_42
+  - first:
+      213: -3611078291981729401
+    second: DeepseaCreatures_spritesheet_43
+  - first:
+      213: 3996559527444984176
+    second: DeepseaCreatures_spritesheet_44
+  - first:
+      213: 1461298264363646763
+    second: DeepseaCreatures_spritesheet_45
+  - first:
+      213: -6855860563437272293
+    second: DeepseaCreatures_spritesheet_46
+  - first:
+      213: 6213576879869890402
+    second: DeepseaCreatures_spritesheet_47
+  - first:
+      213: -6006286664668840150
+    second: DeepseaCreatures_spritesheet_48
+  - first:
+      213: 7871059118804230980
+    second: DeepseaCreatures_spritesheet_49
+  - first:
+      213: -7321542319581192863
+    second: DeepseaCreatures_spritesheet_50
+  - first:
+      213: 8086919665679159386
+    second: DeepseaCreatures_spritesheet_51
+  - first:
+      213: 7120864692552430392
+    second: DeepseaCreatures_spritesheet_52
+  - first:
+      213: -5603851970104173757
+    second: DeepseaCreatures_spritesheet_53
+  - first:
+      213: 4617017627685637227
+    second: DeepseaCreatures_spritesheet_54
+  - first:
+      213: -8227883534657678112
+    second: DeepseaCreatures_spritesheet_55
+  - first:
+      213: -3360630676612159745
+    second: DeepseaCreatures_spritesheet_56
+  - first:
+      213: -5399290661534376916
+    second: DeepseaCreatures_spritesheet_57
+  - first:
+      213: 5961218922483073437
+    second: DeepseaCreatures_spritesheet_58
+  - first:
+      213: 1568755852155732246
+    second: DeepseaCreatures_spritesheet_59
+  - first:
+      213: -6924167135035872830
+    second: DeepseaCreatures_spritesheet_60
+  - first:
+      213: 7042352999498732255
+    second: DeepseaCreatures_spritesheet_61
+  - first:
+      213: 2352930030863669669
+    second: DeepseaCreatures_spritesheet_62
+  - first:
+      213: 6912607977997298682
+    second: DeepseaCreatures_spritesheet_63
+  - first:
+      213: 7019929278988378310
+    second: DeepseaCreatures_spritesheet_64
+  - first:
+      213: 5933728159883415290
+    second: DeepseaCreatures_spritesheet_65
+  - first:
+      213: -6263094841316820935
+    second: DeepseaCreatures_spritesheet_66
+  - first:
+      213: 6939758440327328271
+    second: DeepseaCreatures_spritesheet_67
+  - first:
+      213: 449840087618787513
+    second: DeepseaCreatures_spritesheet_68
+  - first:
+      213: -226663990254744211
+    second: DeepseaCreatures_spritesheet_69
+  - first:
+      213: 1681224501008528508
+    second: DeepseaCreatures_spritesheet_70
+  - first:
+      213: 2090334989693894026
+    second: DeepseaCreatures_spritesheet_71
+  - first:
+      213: -5193029623154743670
+    second: DeepseaCreatures_spritesheet_72
+  - first:
+      213: -5451280965089177928
+    second: DeepseaCreatures_spritesheet_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1451
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3d32c0a99ce7120800000000000000
+      internalID: 2413588113782985679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1450
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fccae87277585d0800000000000000
+      internalID: -3060909359947264155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1409
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd572c4c31eac53e0800000000000000
+      internalID: -2063583129313839652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1406
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36d0d2c3748b0870800000000000000
+      internalID: 8650153142019741242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1417
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4789254be9c8da90800000000000000
+      internalID: -7288853984584300726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1408
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4118060ac6d1d12b0800000000000000
+      internalID: -5612297208249417452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1408
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d2ac36d1fcc67f0800000000000000
+      internalID: -617891323721405135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1413
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1fe234053a5f730800000000000000
+      internalID: 4032308606500008367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1410
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7ab662db89bfe90800000000000000
+      internalID: -6990826058401732620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1406
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c718379d4e005c0800000000000000
+      internalID: -4251146425640846291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1417
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d746c8917bed430800000000000000
+      internalID: 3809683655159479573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1409
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a823cd19c092960800000000000000
+      internalID: 7577601668631661109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1408
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce5a045605229330800000000000000
+      internalID: 3716073351644077772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1400
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01146da1549d50a0800000000000000
+      internalID: -6891188776284712694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1400
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ae750a8261d3dc0800000000000000
+      internalID: -3657742958610355582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1349
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3fd68130c8d5bb0800000000000000
+      internalID: -4945642870860287031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1350
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593511f1e24a4a9b0800000000000000
+      internalID: -5069746762515655787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1307
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab64076eed23c27b0800000000000000
+      internalID: -5247763532863224134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1307
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c8664e20b3b8470800000000000000
+      internalID: 8397870813770321019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1252
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c36139955adbd10800000000000000
+      internalID: 2143050801836604462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1252
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec67267f976eea370800000000000000
+      internalID: 8335853371825223374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1203
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4393d71964d17f480800000000000000
+      internalID: -8865585152529712844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1199
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df58bc76c0fb7520800000000000000
+      internalID: 2701017136825393105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1161
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dd9a82e9ad1b7e0800000000000000
+      internalID: -1751378407248503487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1161
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdcc53b9a49862e0800000000000000
+      internalID: -2132290966980342322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1106
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b870281ccc82b3250800000000000000
+      internalID: 5925374594620983179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1106
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dcfe69de0632560800000000000000
+      internalID: 7287775195571408170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1065
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2288c39d8fa911a0800000000000000
+      internalID: -6838241536580746707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1066
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1b1b01fa99d1fd0800000000000000
+      internalID: -2369568851748605445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1019
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c89341555bc7d30800000000000000
+      internalID: 4430615510441888908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1017
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc74b0f8391731a0800000000000000
+      internalID: -6829962577536844583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 968
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840b6616c6969ee60800000000000000
+      internalID: 7992034927957160008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 968
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b7e7703db6d3410800000000000000
+      internalID: 1458440408445909834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 919
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941bdc3c495da8450800000000000000
+      internalID: 6091916280888930633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 919
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d468872e9aa5580800000000000000
+      internalID: -8837564528611406446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 872
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7450e25926c34ac60800000000000000
+      internalID: 7828448446384047431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 872
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53071644c4a7aa70800000000000000
+      internalID: 8838213956634346331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 824
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63bf8435025a3d20800000000000000
+      internalID: 3259007462666122093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 824
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c222b6ab17cc42c0800000000000000
+      internalID: -4445959810546785598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 775
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b325592ab9d679ff0800000000000000
+      internalID: -29434357339565509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 777
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4c594d1d3fcf210800000000000000
+      internalID: 1368236469354087658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 727
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337476d9912ee3360800000000000000
+      internalID: 7151401857953777459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 728
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b96fc5f3d31d5e0800000000000000
+      internalID: -1886659426539627775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 680
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7810e4efc6fd2edc0800000000000000
+      internalID: -3611078291981729401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 681
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071bf0d27b1a67730800000000000000
+      internalID: 3996559527444984176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 632
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f3a467703974410800000000000000
+      internalID: 1461298264363646763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 632
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1346b634271bd0a0800000000000000
+      internalID: -6855860563437272293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 581
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f8935504f0b3650800000000000000
+      internalID: 6213576879869890402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 581
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f7f35e91265aca0800000000000000
+      internalID: -6006286664668840150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 536
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443ec6ed09e9b3d60800000000000000
+      internalID: 7871059118804230980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 536
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d9f513d08a46a90800000000000000
+      internalID: -7321542319581192863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 489
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a505defe6928a3070800000000000000
+      internalID: 8086919665679159386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 489
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833753db5b462d260800000000000000
+      internalID: 7120864692552430392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 441
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b511cd25e1b32b0800000000000000
+      internalID: -5603851970104173757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 441
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c4be30211f21040800000000000000
+      internalID: 4617017627685637227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 402
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e49177b48fa0dd80800000000000000
+      internalID: -8227883534657678112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 401
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6604b7434ac51d0800000000000000
+      internalID: -3360630676612159745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 344
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cd82000cdd115b0800000000000000
+      internalID: -5399290661534376916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 344
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91c0fea6018ab250800000000000000
+      internalID: 5961218922483073437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 296
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611ce0bc22755c510800000000000000
+      internalID: 1568755852155732246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 296
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9a0ce2daa68ef90800000000000000
+      internalID: -6924167135035872830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 250
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd25706bdb67bb160800000000000000
+      internalID: 7042352999498732255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 251
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a95afe856947a020800000000000000
+      internalID: 2352930030863669669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 204
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb6f08d4548eef50800000000000000
+      internalID: 6912607977997298682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 204
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0677e6c7ccb6160800000000000000
+      internalID: 7019929278988378310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 156
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe459bb256d85250800000000000000
+      internalID: 5933728159883415290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 157
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938bab4dc640519a0800000000000000
+      internalID: -6263094841316820935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 106
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02bab67889fe4060800000000000000
+      internalID: 6939758440327328271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 106
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b89f342d272e3600800000000000000
+      internalID: 449840087618787513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 55
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d4e714d4abadcf0800000000000000
+      internalID: -226663990254744211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 55
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74fb42b6c8e45710800000000000000
+      internalID: 1681224501008528508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 10
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d364a199c520d10800000000000000
+      internalID: 2090334989693894026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 20
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86e7c35217aee7b0800000000000000
+      internalID: -5193029623154743670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeepseaCreatures_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 11
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bec20928d82954b0800000000000000
+      internalID: -5451280965089177928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c83fb63e618976348a650e3be1a8ded1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DeepseaCreatures_spritesheet_0: 2413588113782985679
+      DeepseaCreatures_spritesheet_1: -3060909359947264155
+      DeepseaCreatures_spritesheet_10: 3809683655159479573
+      DeepseaCreatures_spritesheet_11: 7577601668631661109
+      DeepseaCreatures_spritesheet_12: 3716073351644077772
+      DeepseaCreatures_spritesheet_13: -6891188776284712694
+      DeepseaCreatures_spritesheet_14: -3657742958610355582
+      DeepseaCreatures_spritesheet_15: -4945642870860287031
+      DeepseaCreatures_spritesheet_16: -5069746762515655787
+      DeepseaCreatures_spritesheet_17: -5247763532863224134
+      DeepseaCreatures_spritesheet_18: 8397870813770321019
+      DeepseaCreatures_spritesheet_19: 2143050801836604462
+      DeepseaCreatures_spritesheet_2: -2063583129313839652
+      DeepseaCreatures_spritesheet_20: 8335853371825223374
+      DeepseaCreatures_spritesheet_21: -8865585152529712844
+      DeepseaCreatures_spritesheet_22: 2701017136825393105
+      DeepseaCreatures_spritesheet_23: -1751378407248503487
+      DeepseaCreatures_spritesheet_24: -2132290966980342322
+      DeepseaCreatures_spritesheet_25: 5925374594620983179
+      DeepseaCreatures_spritesheet_26: 7287775195571408170
+      DeepseaCreatures_spritesheet_27: -6838241536580746707
+      DeepseaCreatures_spritesheet_28: -2369568851748605445
+      DeepseaCreatures_spritesheet_29: 4430615510441888908
+      DeepseaCreatures_spritesheet_3: 8650153142019741242
+      DeepseaCreatures_spritesheet_30: -6829962577536844583
+      DeepseaCreatures_spritesheet_31: 7992034927957160008
+      DeepseaCreatures_spritesheet_32: 1458440408445909834
+      DeepseaCreatures_spritesheet_33: 6091916280888930633
+      DeepseaCreatures_spritesheet_34: -8837564528611406446
+      DeepseaCreatures_spritesheet_35: 7828448446384047431
+      DeepseaCreatures_spritesheet_36: 8838213956634346331
+      DeepseaCreatures_spritesheet_37: 3259007462666122093
+      DeepseaCreatures_spritesheet_38: -4445959810546785598
+      DeepseaCreatures_spritesheet_39: -29434357339565509
+      DeepseaCreatures_spritesheet_4: -7288853984584300726
+      DeepseaCreatures_spritesheet_40: 1368236469354087658
+      DeepseaCreatures_spritesheet_41: 7151401857953777459
+      DeepseaCreatures_spritesheet_42: -1886659426539627775
+      DeepseaCreatures_spritesheet_43: -3611078291981729401
+      DeepseaCreatures_spritesheet_44: 3996559527444984176
+      DeepseaCreatures_spritesheet_45: 1461298264363646763
+      DeepseaCreatures_spritesheet_46: -6855860563437272293
+      DeepseaCreatures_spritesheet_47: 6213576879869890402
+      DeepseaCreatures_spritesheet_48: -6006286664668840150
+      DeepseaCreatures_spritesheet_49: 7871059118804230980
+      DeepseaCreatures_spritesheet_5: -5612297208249417452
+      DeepseaCreatures_spritesheet_50: -7321542319581192863
+      DeepseaCreatures_spritesheet_51: 8086919665679159386
+      DeepseaCreatures_spritesheet_52: 7120864692552430392
+      DeepseaCreatures_spritesheet_53: -5603851970104173757
+      DeepseaCreatures_spritesheet_54: 4617017627685637227
+      DeepseaCreatures_spritesheet_55: -8227883534657678112
+      DeepseaCreatures_spritesheet_56: -3360630676612159745
+      DeepseaCreatures_spritesheet_57: -5399290661534376916
+      DeepseaCreatures_spritesheet_58: 5961218922483073437
+      DeepseaCreatures_spritesheet_59: 1568755852155732246
+      DeepseaCreatures_spritesheet_6: -617891323721405135
+      DeepseaCreatures_spritesheet_60: -6924167135035872830
+      DeepseaCreatures_spritesheet_61: 7042352999498732255
+      DeepseaCreatures_spritesheet_62: 2352930030863669669
+      DeepseaCreatures_spritesheet_63: 6912607977997298682
+      DeepseaCreatures_spritesheet_64: 7019929278988378310
+      DeepseaCreatures_spritesheet_65: 5933728159883415290
+      DeepseaCreatures_spritesheet_66: -6263094841316820935
+      DeepseaCreatures_spritesheet_67: 6939758440327328271
+      DeepseaCreatures_spritesheet_68: 449840087618787513
+      DeepseaCreatures_spritesheet_69: -226663990254744211
+      DeepseaCreatures_spritesheet_7: 4032308606500008367
+      DeepseaCreatures_spritesheet_70: 1681224501008528508
+      DeepseaCreatures_spritesheet_71: 2090334989693894026
+      DeepseaCreatures_spritesheet_72: -5193029623154743670
+      DeepseaCreatures_spritesheet_73: -5451280965089177928
+      DeepseaCreatures_spritesheet_8: -6990826058401732620
+      DeepseaCreatures_spritesheet_9: -4251146425640846291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
