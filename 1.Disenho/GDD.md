@@ -1,6 +1,6 @@
 # GDD
 
-## PRESENTACIÓN/RESUMEN
+## PRESENTACIÓN/RESUMEN
 
 - Título: BubbleCat!
 
@@ -14,13 +14,13 @@
  
 ## GAMEPLAY
 
-### Objetivos
+### Objetivos
 
 - Objetivo principal: Avanzar a través de los tres niveles hasta vencer al jefe final.
 
 - Objetivos secundarios: Recoger gemas para aumentar vidas y acabar con enemigos.
 
-#### Jugabilidad
+### Jugabilidad
 
 - El jugador controla a BubbleCat en un entorno submarino.
 
