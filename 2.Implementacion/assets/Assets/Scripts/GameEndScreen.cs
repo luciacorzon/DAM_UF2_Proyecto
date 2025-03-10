@@ -17,20 +17,22 @@ public class GameEndScreen : MonoBehaviour
 
     void ResetGame()
     {
-        // Destruir o GameManager para reiniciar a partida
-        GameObject gameManager = GameObject.Find("GameManager");
-        if (gameManager != null)
-        {
-            Destroy(gameManager);
-        }
+        // Reiniciar la escena
         SceneManager.LoadScene("FirstLevel");
+
+        // Llamar a ResetGameState() del GameManager si existe
+        if (GameManager.instance != null)
+        {
+            GameManager.instance.ResetGameState();
+        }
     }
 
-    // Salir do xogo tanto no editor de unity como no executable
     void QuitGame()
     {
-        #if UNITY_EDITOR
-            UnityEditor.EditorApplication.isPlaying = false; 
+        #if UNITY_WEBGL
+            Debug.Log("Salir no es compatible en WebGL. Cierra la pestaña o recarga la página.");
+        #elif UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
         #else
             Application.Quit();
         #endif

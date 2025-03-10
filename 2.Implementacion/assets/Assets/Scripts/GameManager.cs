@@ -94,4 +94,12 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("GameOver");
     }
+
+    public void ResetGameState()
+    {
+        lives = 3;
+        currentHealth = maxHealthPerLife;
+        UpdateLivesUI();
+        Debug.Log("Estado del juego reiniciado.");
+    }
 }
